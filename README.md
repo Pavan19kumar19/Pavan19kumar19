@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm  Pavan Kumar</h1>
 <p>Aspiring as a Software Engineer || SAP ABAP Developer</p>
+💫 About Me:<br>
+🔭 I’m currently looking for:<br>An opportunity to showcase my skills and contribute to a well-reputed company.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, innovative web development ideas, and software engineering challenges.<br><br>🤝 I’m looking for help with:<br>Scaling backend systems and optimizing the performance of full-stack applications.<br><br>🌱 I’m currently learning:<br>Advanced topics in Django, React, and SAP ABAP, along with exploring cybersecurity technology.<br><br>💬 Ask me about:<br><br>Full-stack web development<br>Python programming<br>Creating innovative tech solutions<br><br>⚡ Fun fact:<br>I enjoy solving complex puzzles, playing handball, and keeping myself fit both mentally and physically.
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
